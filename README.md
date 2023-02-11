@@ -1,10 +1,10 @@
-# Mattermost Documentation
+# Mattermost 문서화
 
 This repository generates the documentation available at https://docs.mattermost.com/. All documentation is available under the terms of a [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 If you have any questions, create an account on the [Mattermost Community server](https://community.mattermost.com/signup_user_complete/?id=f1924a8db44ff3bb41c96424cdc20676), then join the writing team in the [Documentation Working Group](https://community.mattermost.com/core/channels/dwg-documentation-working-group) channel. We look forward to working with you!
 
-# Table of Contents
+# 목차
 
  * [Contributing](#contribute-to-mattermost-product-documentation)
      * [Get started](#get-started)
@@ -17,7 +17,7 @@ If you have any questions, create an account on the [Mattermost Community server
 
 ## Contribute to Mattermost product documentation
 
-### Get started
+### 사작하기
 
 You can edit or create Mattermost documentation directly in GitHub, or by downloading the `mattermost/docs` repository onto your machine and using an IDE such as VS Code. Consult the Mattermost [Documentation Style Guide](https://handbook.mattermost.com/operations/research-and-development/product/technical-writing-team-handbook/documentation-style-guide) and [reStructuredText Markup](https://handbook.mattermost.com/operations/research-and-development/product/technical-writing-team-handbook/documentation-style-guide#using-restructuredtext-markup-rst) section for stylistic and technical guidance.
 
